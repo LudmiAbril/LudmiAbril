@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Ejemplo Gif][(https://ruta-de-tu-gif.com/ejemplo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fes-DO%2Fview%2Fyume-nikki-gif-24356712&psig=AOvVaw0Tlzisbb-OPKVicSTgPlz7&ust=1700435252920000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND2yJvWzoIDFQAAAAAdAAAAABAD))
 
 <!--
 **LudmiAbril/LudmiAbril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
