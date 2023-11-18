@@ -1,5 +1,4 @@
-### Hi there 👋
-![Ejemplo Gif](https://img1.picmix.com/output/stamp/normal/8/9/1/7/2297198_85518.gif)
+![Ejemplo Gif](https://img1.picmix.com/output/stamp/normal/8/9/1/7/2297198_85518.gif){width=50%}
 
 <!--
 **LudmiAbril/LudmiAbril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
