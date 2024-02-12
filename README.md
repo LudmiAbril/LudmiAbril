@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/564x/81/1d/55/811d55b52e127f18200aa2ccaefa0cb2.jpg" height="300">
 
  
- Soy una desarrolladora frontEnd, me gusta construir interfaces interactivas con React.js
+ Soy una desarrolladora web front-end de Argentina, me gusta construir interfaces interactivas con React.js
 
 :art: Tengo interes en la estetica y el aspecto visual de los sitios web.
 
