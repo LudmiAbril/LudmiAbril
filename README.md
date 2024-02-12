@@ -2,13 +2,11 @@
 <img src="https://i.pinimg.com/564x/81/1d/55/811d55b52e127f18200aa2ccaefa0cb2.jpg" height="300">
 
  
- Soy una desarrolladora frontEnd jr, me gusta construir interfaces interactivas con React.js
+ Soy una desarrolladora frontEnd, me gusta construir interfaces interactivas con React.js
 
-:art: Tengo interes en el arte, la estetica y el aspecto visual de los sitios web.
+:art: Tengo interes en la estetica y el aspecto visual de los sitios web.
 
-:notebook: Soy autodidacta y busco constantemente aprender nuevas tecnologias.
-
-:books: Actualmente curso la carrera de desarrollador web.
+:notebook: Soy proactiva y busco actualizarme a las nuevas tecnologias y demandas del area.
 
 :incoming_envelope: Estoy abierta a ofertas laborales.
 
