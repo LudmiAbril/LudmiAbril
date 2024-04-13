@@ -1,5 +1,5 @@
  ## Hola! soy ludmi :sunflower:
-<img src="https://i.pinimg.com/564x/81/1d/55/811d55b52e127f18200aa2ccaefa0cb2.jpg" height="300">
+<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" height="300" width="500">
 
  
  Soy una desarrolladora web front-end de Argentina, me gusta construir interfaces interactivas con React.js
