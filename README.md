@@ -11,7 +11,7 @@
 :incoming_envelope: Estoy abierta a ofertas laborales.
 
 ## :computer: Tecnologias que uso
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,react,tailwind,sass,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,php,react,styledcomponents,tailwind,sass,mysql,git,github)](https://skillicons.dev)
 
 ## Contacto :mailbox_closed:
 💌 ludmila.pereyra543@gmail.com
