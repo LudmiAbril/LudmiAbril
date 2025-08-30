@@ -1,18 +1,12 @@
- ## Hola! soy ludmi :sunflower:
-<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" height="300" width="500">
+## Hi There, I'm Ludmila!
+I'm a web developer from Buenos Aires, Argentina. Graduated as a Web Development technician, I'm interested in building scalable, intuitive, and optimized frontend solutions that offer a client-friendly experience.
 
- 
- Soy una desarrolladora web front-end de Argentina, me gusta construir interfaces interactivas con React.js
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2c4ajV6MDdwZnJybWJnYTF5eXZlNWVpMDZjdTV3eTZ3d21qcWRrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9b0dPTdwIw7mJggFTA/giphy.gif" width="150"/>
 
-:art: Tengo interes en la estetica y el aspecto visual de los sitios web.
-
-:notebook: Soy proactiva y busco actualizarme a las nuevas tecnologias y demandas del area.
-
-:incoming_envelope: Estoy abierta a ofertas laborales.
-
-## :computer: Tecnologias que uso
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,php,react,styledcomponents,tailwind,sass,mysql,git,github)](https://skillicons.dev)
-
-## Contacto :mailbox_closed:
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,mysql,git)](https://skillicons.dev)
+## Contact
 💌 ludmila.pereyra543@gmail.com
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ludmiabril&hide=issues&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
